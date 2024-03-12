@@ -25,12 +25,7 @@ The code provided in this repository facilitates the analysis and visualization 
    cd WilcoxLabNeuromodulationProject
    ```
 
-3. Install the required dependencies listed in `requirements.txt`:
-   ```
-   pip install -r requirements.txt
-   ```
-
-4. Run the desired scripts for data analysis and visualization.
+3. Run the desired scripts for data analysis and visualization.
 
 **Contributing:**
 Contributions to this project are welcome. If you wish to contribute, please follow these steps:
