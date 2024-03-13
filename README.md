@@ -12,7 +12,7 @@ The code provided in this repository facilitates the analysis and visualization 
 **Key Features:**
 - **Data Preprocessing:** Scripts for cleaning, formatting, and organizing raw data for further analysis.
 - **Statistical Analysis:** Tools for conducting statistical tests and exploring relationships within the dataset.
-- **Visualization:** Various visualization techniques to represent the analyzed data, including plots, graphs, and heatmaps.
+- **Visualization:** Various visualization techniques to represent the analyzed data, including plots, and graphs.
 
 **How to Use:**
 1. Clone the repository to your local machine using the following command:
